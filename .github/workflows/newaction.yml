@@ -6,11 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       
-        -run: echo "23f1001029@ds.study.iitm.ac.in ${{ github.event_name }}"      
+        -name:23f1001029@ds.study.iitm.ac.in  
+        run:echo" M.ANANTHAVALLI ${{ github.event_name }} "
         
-        uses: actions/checkout@v4
-      
-        run: |
-          ls ${{ github.workspace }}
-     
+    
       
