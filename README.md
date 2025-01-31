@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ananthavalli1991
+- 👋 Hi, I’m @Ananthavalli
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...DataScience
 
