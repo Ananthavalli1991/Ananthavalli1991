@@ -5,8 +5,8 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-        -name: 23f1001029@ds.study.iitm.ac.in
-        -run: echo "M.ANANTHAVALLI ${{ github.event_name }}"      
+      
+        -run: echo "23f1001029@ds.study.iitm.ac.in ${{ github.event_name }}"      
         
         uses: actions/checkout@v4
       
