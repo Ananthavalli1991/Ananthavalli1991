@@ -4,11 +4,9 @@ on: [push]
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
-    steps:
-      
-        -name:23f1001029@ds.study.iitm.ac.in  
-        -run:echo" M.ANANTHAVALLI ${{ github.event_name }} "
-        -name:Check out repository code
-          -uses:actions/checkout@v4
+    steps:      
+       - name: 23f1001029@ds.study.iitm.ac.in
+         run: echo "Hello, world!"
+        
     
       
