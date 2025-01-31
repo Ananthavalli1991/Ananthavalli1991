@@ -7,8 +7,8 @@ jobs:
     steps:
       
         -name:23f1001029@ds.study.iitm.ac.in  
-        run:echo" M.ANANTHAVALLI ${{ github.event_name }} "
+        -run:echo" M.ANANTHAVALLI ${{ github.event_name }} "
         -name:Check out repository code
-          uses:actions/checkout@v4
+          -uses:actions/checkout@v4
     
       
