@@ -23,9 +23,6 @@ Seeking opportunities in Data Analytics, Business Intelligence, and AI applicati
 
 I enjoy building practical projects that use data and AI to solve real-world problems.
 
-- 👋 Hi, I’m @Ananthavalli
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning ...DataScience
 
 
 <!---
