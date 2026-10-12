@@ -8,7 +8,7 @@ I'm a Computer Science postgraduate with a background in Data Science and a stro
 * **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis
 * **Data Visualization:** Power BI, Excel, Python visualization libraries
 * **Machine Learning:** Classification, Regression, Model Evaluation
-* **Generative AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG)
+* **Generative AI:** Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP)
 
 ## Featured Projects
 
